@@ -1,5 +1,7 @@
 Nama : Manurung Alex Roger
+
 Kelas: TI.20.A.2
+
 NIM  : 312010478
 
  1. Form HTML
@@ -10,4 +12,5 @@ NIM  : 312010478
  
  2. Script Java
  
- - 
+ - ![2](https://user-images.githubusercontent.com/101391579/162481010-b72c3dd6-d8f4-434b-a480-beea054af734.png)
+
